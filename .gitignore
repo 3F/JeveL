@@ -1,0 +1,8 @@
+/package-lock.json
+/node_modules
+/dist
+/obj
+/public
+/.vscode
+/dist.zip
+/.nyc_output
